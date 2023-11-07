@@ -21,8 +21,10 @@ a {
   text-decoration: none !important;
 }
 .word {
-  padding: 2rem 0;
- }
+    padding: 2rem 0;
+    font-size: 2rem;
+    font-weight: bold;
+}
  .word span {
    cursor: pointer;
    display: inline-block;
